@@ -1,6 +1,6 @@
 Dse::Application.routes.draw do
-  resource :folder, :only => [:new, :create] do
-    member do
+  resources :folders, :only => [:new, :create] do
+    collection do
       post :upload
     end
   end

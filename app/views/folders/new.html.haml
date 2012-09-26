@@ -1,0 +1,12 @@
+-title = "Remplir mon dossier"
+-content_for :title, title
+%h1=title
+
+=simple_form_for(@folder, :html => {:class => 'form-horizontal' }) do |f|
+  .actions.well
+    =f.button :submit
+  .inputs
+    -for attr in Folder.doc_defs
+      =f.input attr[:name], :as => (attr[:state_option] ? :select : :string), :collection => attr[:state_option], :include_blank => false
+
+
