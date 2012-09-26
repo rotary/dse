@@ -10,7 +10,7 @@ class FoldersController < ApplicationController
   end
 
   def new
-    @folder = Folder.new(params[:folder])
+    @folder = Folder.new({:sponsor_district => "1690", :sponsor_ye_chair_name => "BAUMON Philippe", :sponsor_ye_chair_email => "yeo-chairman@rotary1690.org"}.merge(params[:folder] || {}))
   end
 
   def create
