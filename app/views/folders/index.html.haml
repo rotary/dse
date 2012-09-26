@@ -1,0 +1,15 @@
+%h1 Dossier Student-Exchange
+%p.leap
+  Ce site est réservé aux candidats du programme 
+  %em Student-Exchange
+
+%h2 Nouveau dossier
+=link_to("Remplir mon dossier", new_folder_url, :class => "btn btn-block btn-primary")
+
+%h2 Recharger mon dossier (PDF complété)
+=form_tag({:action => :upload}, {:multipart => true, :class => "form-horizontal"}) do
+  .control-group
+    %label.control-label{:for => :file} Fichier PDF
+    .controls
+      =file_field_tag(:file)
+      %button.btn{:type => "submit"} Uploader (Téléverser)
