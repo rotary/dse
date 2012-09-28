@@ -1,0 +1,2633 @@
+---
+FieldType: Button
+FieldName: Gender
+FieldFlags: 0
+FieldValue: Gender
+FieldJustification: Left
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: StudentStreet.0
+FieldFlags: 12582912
+FieldValue: StudentStreet.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: StudentStreet
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentCity.0
+FieldFlags: 12582912
+FieldValue: StudentCity.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: StudentCity
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentStateProv.0
+FieldFlags: 12582912
+FieldValue: StudentStateProv.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: StudentStateProv
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentPostalCode.0
+FieldFlags: 12582912
+FieldValue: StudentPostalCode.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: StudentPostalCode
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentCountry.0
+FieldFlags: 12582912
+FieldValue: StudentCountry.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: StudentCountry
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: FatherRotarian
+FieldFlags: 0
+FieldValue: FatherRotarian
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: FatherRotaryClub
+FieldFlags: 12582912
+FieldValue: FatherRotaryClub
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherStreet
+FieldFlags: 12582912
+FieldValue: FatherStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherCity
+FieldFlags: 12582912
+FieldValue: FatherCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherStateProv
+FieldFlags: 12582912
+FieldValue: FatherStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherPostalCode
+FieldFlags: 12582912
+FieldValue: FatherPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherCountry
+FieldFlags: 12582912
+FieldValue: FatherCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherMobilePhone
+FieldFlags: 12582912
+FieldValue: FatherMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherOccupation
+FieldFlags: 12582912
+FieldValue: FatherOccupation
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherBusinessPhone
+FieldFlags: 12582912
+FieldValue: FatherBusinessPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherFax
+FieldFlags: 12582912
+FieldValue: FatherFax
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: MotherRotarian
+FieldFlags: 0
+FieldValue: MotherRotarian
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: MotherRotaryClub
+FieldFlags: 12582912
+FieldValue: MotherRotaryClub
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherStreet
+FieldFlags: 12582912
+FieldValue: MotherStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherCity
+FieldFlags: 12582912
+FieldValue: MotherCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherStateProv
+FieldFlags: 12582912
+FieldValue: MotherStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherPostalCode
+FieldFlags: 12582912
+FieldValue: MotherPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherCountry
+FieldFlags: 12582912
+FieldValue: MotherCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherMobilePhone
+FieldFlags: 12582912
+FieldValue: MotherMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherOccupation
+FieldFlags: 12582912
+FieldValue: MotherOccupation
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherBusinessPhone
+FieldFlags: 12582912
+FieldValue: MotherBusinessPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherFax
+FieldFlags: 12582912
+FieldValue: MotherFax
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: ContactParent
+FieldFlags: 0
+FieldValue: ContactParent
+FieldJustification: Left
+FieldStateOption: Father
+FieldStateOption: Mother
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: ParentsDivorced
+FieldFlags: 0
+FieldValue: ParentsDivorced
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: SponsorDistrict
+FieldFlags: 12582912
+FieldValue: SponsorDistrict
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentFullName
+FieldFlags: 12582912
+FieldValue: StudentFullName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Religion
+FieldFlags: 12582912
+FieldValue: Religion
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DietRestrictions
+FieldFlags: 12587008
+FieldValue: DietRestrictions
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Smoke
+FieldFlags: 0
+FieldValue: Smoke
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: TobaccoExplanation
+FieldFlags: 12587008
+FieldValue: TobaccoExplanation
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Alcohol
+FieldFlags: 0
+FieldValue: Alcohol
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: AlcoholExplanation
+FieldFlags: 12587008
+FieldValue: AlcoholExplanation
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Drugs
+FieldFlags: 0
+FieldValue: Drugs
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: DrugsExplanation
+FieldFlags: 12587008
+FieldValue: DrugsExplanation
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: BoyfriendGirlfriend
+FieldFlags: 0
+FieldValue: BoyfriendGirlfriend
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: SteadyExplanation
+FieldFlags: 12587008
+FieldValue: SteadyExplanation
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingName.0
+FieldFlags: 12582912
+FieldValue: SiblingName.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingName.1
+FieldFlags: 12582912
+FieldValue: SiblingName.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingName.2
+FieldFlags: 12582912
+FieldValue: SiblingName.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingName.3
+FieldFlags: 12582912
+FieldValue: SiblingName.3
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingName.4
+FieldFlags: 12582912
+FieldValue: SiblingName.4
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: SiblingGender0
+FieldFlags: 0
+FieldValue: SiblingGender0
+FieldJustification: Left
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: SiblingAge.0
+FieldFlags: 12582912
+FieldValue: SiblingAge.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingAge.1
+FieldFlags: 12582912
+FieldValue: SiblingAge.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingAge.2
+FieldFlags: 12582912
+FieldValue: SiblingAge.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingAge.4
+FieldFlags: 12582912
+FieldValue: SiblingAge.4
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingAge.3
+FieldFlags: 12582912
+FieldValue: SiblingAge.3
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingOccupation.0
+FieldFlags: 12582912
+FieldValue: SiblingOccupation.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingOccupation.1
+FieldFlags: 12582912
+FieldValue: SiblingOccupation.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingOccupation.2
+FieldFlags: 12582912
+FieldValue: SiblingOccupation.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingOccupation.3
+FieldFlags: 12582912
+FieldValue: SiblingOccupation.3
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SiblingOccupation.4
+FieldFlags: 12582912
+FieldValue: SiblingOccupation.4
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: SibAtHome.0
+FieldFlags: 0
+FieldValue: SibAtHome.0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SibAtHome.1
+FieldFlags: 0
+FieldValue: SibAtHome.1
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SibAtHome.4
+FieldFlags: 0
+FieldValue: SibAtHome.4
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SibAtHome.3
+FieldFlags: 0
+FieldValue: SibAtHome.3
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: SibAtHome.2
+FieldFlags: 0
+FieldValue: SibAtHome.2
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: SibAtHome
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: SiblingGender1
+FieldFlags: 0
+FieldValue: SiblingGender1
+FieldJustification: Left
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: SiblingGender2
+FieldFlags: 0
+FieldValue: SiblingGender2
+FieldJustification: Left
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: SiblingGender3
+FieldFlags: 0
+FieldValue: SiblingGender3
+FieldJustification: Left
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: NativeLanguage
+FieldFlags: 12582912
+FieldValue: NativeLanguage
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonNativeLanguage.0
+FieldFlags: 12582912
+FieldValue: NonNativeLanguage.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonNativeLanguage.1
+FieldFlags: 12582912
+FieldValue: NonNativeLanguage.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NonNativeLanguage.2
+FieldFlags: 12582912
+FieldValue: NonNativeLanguage.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: LanguageYearsStudied.0
+FieldFlags: 12582912
+FieldValue: LanguageYearsStudied.0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageYearsStudied.1
+FieldFlags: 12582912
+FieldValue: LanguageYearsStudied.1
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageYearsStudied.2
+FieldFlags: 12582912
+FieldValue: LanguageYearsStudied.2
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageSpeakingProficiency.0
+FieldFlags: 12582912
+FieldValue: LanguageSpeakingProficiency.0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageSpeakingProficiency.1
+FieldFlags: 12582912
+FieldValue: LanguageSpeakingProficiency.1
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageSpeakingProficiency.2
+FieldFlags: 12582912
+FieldValue: LanguageSpeakingProficiency.2
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageReadingProficiency.0
+FieldFlags: 12582912
+FieldValue: LanguageReadingProficiency.0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageReadingProficiency.1
+FieldFlags: 12582912
+FieldValue: LanguageReadingProficiency.1
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageReadingProficiency.2
+FieldFlags: 12582912
+FieldValue: LanguageReadingProficiency.2
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageWritingProficiency.0
+FieldFlags: 12582912
+FieldValue: LanguageWritingProficiency.0
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageWritingProficiency.1
+FieldFlags: 12582912
+FieldValue: LanguageWritingProficiency.1
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: LanguageWritingProficiency.2
+FieldFlags: 12582912
+FieldValue: LanguageWritingProficiency.2
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: CurrentSchoolName
+FieldFlags: 12582912
+FieldValue: CurrentSchoolName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolPhone
+FieldFlags: 12582912
+FieldValue: CurrentSchoolPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolFax
+FieldFlags: 12582912
+FieldValue: CurrentSchoolFax
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolStreet
+FieldFlags: 12582912
+FieldValue: CurrentSchoolStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolCity
+FieldFlags: 12582912
+FieldValue: CurrentSchoolCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolStateProv
+FieldFlags: 12582912
+FieldValue: CurrentSchoolStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolPostalCode
+FieldFlags: 12582912
+FieldValue: CurrentSchoolPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolCountry
+FieldFlags: 12582912
+FieldValue: CurrentSchoolCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolNoOfGrades
+FieldFlags: 12582912
+FieldValue: CurrentSchoolNoOfGrades
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: StudentGraduationYear
+FieldFlags: 12582912
+FieldValue: StudentGraduationYear
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: StudentYearsInCurrentSchool
+FieldFlags: 12582912
+FieldValue: StudentYearsInCurrentSchool
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: StudentCurrentCourses
+FieldFlags: 12587008
+FieldValue: StudentCurrentCourses
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: TotalStudentsInCurrentSchool
+FieldFlags: 12582912
+FieldValue: TotalStudentsInCurrentSchool
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: TotalStudentsInGradeLevel
+FieldFlags: 12582912
+FieldValue: TotalStudentsInGradeLevel
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: StudentClassRanking
+FieldFlags: 12582912
+FieldValue: StudentClassRanking
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: CurrentSchoolOfficialName
+FieldFlags: 12582912
+FieldValue: CurrentSchoolOfficialName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: CurrentSchoolOfficialEmail
+FieldFlags: 12582912
+FieldValue: CurrentSchoolOfficialEmail
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Continue
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentDOB
+FieldFlags: 12582912
+FieldValue: StudentDOB
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentEmail
+FieldFlags: 12582912
+FieldValue: StudentEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentHomePhone
+FieldFlags: 12582912
+FieldValue: StudentHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentMobilePhone
+FieldFlags: 12582912
+FieldValue: StudentMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HowLongPatient
+FieldFlags: 12582912
+FieldValue: HowLongPatient
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.0.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.0.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.0
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.1.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.1.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.2.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.2.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.3.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.3.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.4.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.4.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.4
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.5.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.5.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.6.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.6.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.6
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.7.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.7.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.7
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.8.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.8.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.8
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.9.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.9.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.9
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.10.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.10.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.10
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.11.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.11.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.11
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box1.0.0.12.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box1.0.0.12.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box1.0.0.12
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: Check Box1.0.0
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: Check Box1.0
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: Check Box1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: MedQues.0
+FieldFlags: 0
+FieldValue: MedQues.0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.1
+FieldFlags: 0
+FieldValue: MedQues.1
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.2
+FieldFlags: 0
+FieldValue: MedQues.2
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.3
+FieldFlags: 0
+FieldValue: MedQues.3
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.4
+FieldFlags: 0
+FieldValue: MedQues.4
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.5
+FieldFlags: 0
+FieldValue: MedQues.5
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.6
+FieldFlags: 0
+FieldValue: MedQues.6
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.7
+FieldFlags: 0
+FieldValue: MedQues.7
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.8
+FieldFlags: 0
+FieldValue: MedQues.8
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.9
+FieldFlags: 0
+FieldValue: MedQues.9
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: MedQues.10
+FieldFlags: 0
+FieldValue: MedQues.10
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: MedQues
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailQues.0
+FieldFlags: 12582912
+FieldValue: MedicalDetailQues.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailQues.1
+FieldFlags: 12582912
+FieldValue: MedicalDetailQues.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailQues.2
+FieldFlags: 12582912
+FieldValue: MedicalDetailQues.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailQues.3
+FieldFlags: 12582912
+FieldValue: MedicalDetailQues.3
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDesc.0
+FieldFlags: 12582912
+FieldValue: MedicalDetailDesc.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDesc.1
+FieldFlags: 12582912
+FieldValue: MedicalDetailDesc.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDesc.2
+FieldFlags: 12582912
+FieldValue: MedicalDetailDesc.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDesc.3
+FieldFlags: 12582912
+FieldValue: MedicalDetailDesc.3
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDates.0
+FieldFlags: 12582912
+FieldValue: MedicalDetailDates.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDates.1
+FieldFlags: 12582912
+FieldValue: MedicalDetailDates.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDates.2
+FieldFlags: 12582912
+FieldValue: MedicalDetailDates.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MedicalDetailDates.3
+FieldFlags: 12582912
+FieldValue: MedicalDetailDates.3
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box5.3.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box5.3
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box5.0.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.0.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.0.2
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.0.3
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box5.0
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box5.1.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.1.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.1.2
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.1.3
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box5.1
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Check Box5.2.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.2.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.2.2
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: Check Box5.2.3
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: Check Box5.2
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: Check Box5
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: RX1
+FieldFlags: 12582912
+FieldValue: RX1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: RXDose1
+FieldFlags: 12582912
+FieldValue: RXDose1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: RXReason1
+FieldFlags: 12582912
+FieldValue: RXReason1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: RX2
+FieldFlags: 12582912
+FieldValue: RX2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: RXDose2
+FieldFlags: 12582912
+FieldValue: RXDose2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: RXReason2
+FieldFlags: 12582912
+FieldValue: RXReason2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.0.0
+FieldFlags: 12582912
+FieldValue: DiseaseYear.0.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.0.1
+FieldFlags: 12582912
+FieldValue: DiseaseYear.0.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.0.2
+FieldFlags: 12582912
+FieldValue: DiseaseYear.0.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.0.3
+FieldFlags: 12582912
+FieldValue: DiseaseYear.0.3
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.1.0
+FieldFlags: 12582912
+FieldValue: DiseaseYear.1.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.1.1
+FieldFlags: 12582912
+FieldValue: DiseaseYear.1.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.1.2
+FieldFlags: 12582912
+FieldValue: DiseaseYear.1.2
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DiseaseYear.1.3
+FieldFlags: 12582912
+FieldValue: DiseaseYear.1.3
+FieldJustification: Left
+---
+FieldType: 
+FieldName: DiseaseYear
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.0.0
+FieldFlags: 12582912
+FieldValue: Doses.0.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.0.1
+FieldFlags: 12582912
+FieldValue: Doses.0.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.1.0
+FieldFlags: 12582912
+FieldValue: Doses.1.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.1.1
+FieldFlags: 12582912
+FieldValue: Doses.1.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.2.0
+FieldFlags: 12582912
+FieldValue: Doses.2.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.2.1
+FieldFlags: 12582912
+FieldValue: Doses.2.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.3.0
+FieldFlags: 12582912
+FieldValue: Doses.3.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.3.1
+FieldFlags: 12582912
+FieldValue: Doses.3.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Doses.4.0
+FieldFlags: 12582912
+FieldValue: Doses.4.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: Doses
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.0.0
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.0.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.0.1
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.0.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.1.0
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.1.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.1.1
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.1.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.2.0
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.2.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.2.1
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.2.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.3.0
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.3.0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.3.1
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.3.1
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationDates.4.0
+FieldFlags: 12582912
+FieldValue: ImmunizationDates.4.0
+FieldJustification: Left
+---
+FieldType: 
+FieldName: ImmunizationDates
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ImmunizationComments
+FieldFlags: 12582912
+FieldValue: ImmunizationComments
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: TBDate
+FieldFlags: 12582912
+FieldValue: TBDate
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: TBResult
+FieldFlags: 12582912
+FieldValue: TBResult
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: TBExplanation
+FieldFlags: 12582912
+FieldValue: TBExplanation
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Height
+FieldFlags: 12582912
+FieldValue: Height
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: Weight
+FieldFlags: 12582912
+FieldValue: Weight
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: BPSys
+FieldFlags: 12582912
+FieldValue: BPSys
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: BPDia
+FieldFlags: 12582912
+FieldValue: BPDia
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: PulseRate
+FieldFlags: 12582912
+FieldValue: PulseRate
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ExamFindings
+FieldFlags: 12582912
+FieldValue: ExamFindings
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: AddlMedicalPages
+FieldFlags: 0
+FieldValue: AddlMedicalPages
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: InGoodHealth
+FieldFlags: 0
+FieldValue: InGoodHealth
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: FinalMedicalRecommendation
+FieldFlags: 0
+FieldValue: FinalMedicalRecommendation
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: DrName
+FieldFlags: 12582912
+FieldValue: DrName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DrSignatureDate
+FieldFlags: 12582912
+FieldValue: DrSignatureDate
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DrAddressEtc
+FieldFlags: 12587008
+FieldValue: DrAddressEtc
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: GoodDentalHealth
+FieldFlags: 0
+FieldValue: GoodDentalHealth
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: NeedDentalWork
+FieldFlags: 0
+FieldValue: NeedDentalWork
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: FutureDental
+FieldFlags: 0
+FieldValue: FutureDental
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: DDSName
+FieldFlags: 12582912
+FieldValue: DDSName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DDSSignatureDate
+FieldFlags: 12582912
+FieldValue: DDSSignatureDate
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: DDSAddressEtc
+FieldFlags: 12587008
+FieldValue: DDSAddressEtc
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: AddlDentalPages
+FieldFlags: 0
+FieldValue: AddlDentalPages
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Text
+FieldName: DDSComments
+FieldFlags: 12587008
+FieldValue: DDSComments
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: PreferredName
+FieldFlags: 12582912
+FieldValue: PreferredName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentPostalStreet
+FieldFlags: 12582912
+FieldValue: StudentPostalStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentPostalCity
+FieldFlags: 12582912
+FieldValue: StudentPostalCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentPostalStateProv
+FieldFlags: 12582912
+FieldValue: StudentPostalStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentPostalPostalCode
+FieldFlags: 12582912
+FieldValue: StudentPostalPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentPostalCountry
+FieldFlags: 12582912
+FieldValue: StudentPostalCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentBirthPlace
+FieldFlags: 12582912
+FieldValue: StudentBirthPlace
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentCitizenship
+FieldFlags: 12582912
+FieldValue: StudentCitizenship
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherHomePhone
+FieldFlags: 12582912
+FieldValue: FatherHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherEmail
+FieldFlags: 12582912
+FieldValue: FatherEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherHomePhone
+FieldFlags: 12582912
+FieldValue: MotherHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherEmail
+FieldFlags: 12582912
+FieldValue: MotherEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponosrClubRepHomePhone
+FieldFlags: 12582912
+FieldValue: SponosrClubRepHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubRepEmail
+FieldFlags: 12582912
+FieldValue: SponsorClubRepEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairName
+FieldFlags: 12582912
+FieldValue: SponsorYEChairName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairStreet
+FieldFlags: 12582912
+FieldValue: SponsorYEChairStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairCity
+FieldFlags: 12582912
+FieldValue: SponsorYEChairCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairEmail
+FieldFlags: 12582912
+FieldValue: SponsorYEChairEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairHomePhone
+FieldFlags: 12582912
+FieldValue: SponsorYEChairHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairMobilePhone
+FieldFlags: 12582912
+FieldValue: SponsorYEChairMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorYEChairFax
+FieldFlags: 12582912
+FieldValue: SponsorYEChairFax
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClub
+FieldFlags: 12582912
+FieldValue: SponsorClub
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubNo
+FieldFlags: 12582912
+FieldValue: SponsorClubNo
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresName
+FieldFlags: 12582912
+FieldValue: SponsorClubPresName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresStreet
+FieldFlags: 12582912
+FieldValue: SponsorClubPresStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresCity
+FieldFlags: 12582912
+FieldValue: SponsorClubPresCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresEmail
+FieldFlags: 12582912
+FieldValue: SponsorClubPresEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresHomePhone
+FieldFlags: 12582912
+FieldValue: SponsorClubPresHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresMobilePhone
+FieldFlags: 12582912
+FieldValue: SponsorClubPresMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubPresFax
+FieldFlags: 12582912
+FieldValue: SponsorClubPresFax
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOName
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOStreet
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOCity
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOEmail
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOHomePhone
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOMobilePhone
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SponsorClubYEOFax
+FieldFlags: 12582912
+FieldValue: SponsorClubYEOFax
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostCountry
+FieldFlags: 12582912
+FieldValue: HostCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClub
+FieldFlags: 12582912
+FieldValue: HostClub
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubNo
+FieldFlags: 12582912
+FieldValue: HostClubNo
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostDistrict
+FieldFlags: 12582912
+FieldValue: HostDistrict
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MonthlyAllowance
+FieldFlags: 12582912
+FieldValue: MonthlyAllowance
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ArrivalAirport
+FieldFlags: 12582912
+FieldValue: ArrivalAirport
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AirportCode
+FieldFlags: 12582912
+FieldValue: AirportCode
+FieldJustification: Center
+---
+FieldType: Text
+FieldName: ArrivalDates
+FieldFlags: 12582912
+FieldValue: ArrivalDates
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostYEChairName
+FieldFlags: 12582912
+FieldValue: HostYEChairName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostYEChairHomePhone
+FieldFlags: 12582912
+FieldValue: HostYEChairHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostYEChairEmail
+FieldFlags: 12582912
+FieldValue: HostYEChairEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubPresName
+FieldFlags: 12582912
+FieldValue: HostClubPresName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubPresHomePhone
+FieldFlags: 12582912
+FieldValue: HostClubPresHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubPresEmail
+FieldFlags: 12582912
+FieldValue: HostClubPresEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubSecYEOName
+FieldFlags: 12582912
+FieldValue: HostClubSecYEOName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubSecYEOHomePhone
+FieldFlags: 12582912
+FieldValue: HostClubSecYEOHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubSecYEOEmail
+FieldFlags: 12582912
+FieldValue: HostClubSecYEOEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorName
+FieldFlags: 12582912
+FieldValue: HostClubCounselorName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorEmail
+FieldFlags: 12582912
+FieldValue: HostClubCounselorEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorStreet
+FieldFlags: 12582912
+FieldValue: HostClubCounselorStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorCity
+FieldFlags: 12582912
+FieldValue: HostClubCounselorCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorStateProv
+FieldFlags: 12582912
+FieldValue: HostClubCounselorStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorPostalCode
+FieldFlags: 12582912
+FieldValue: HostClubCounselorPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorCountry
+FieldFlags: 12582912
+FieldValue: HostClubCounselorCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorHomePhone
+FieldFlags: 12582912
+FieldValue: HostClubCounselorHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorBusinessPhone
+FieldFlags: 12582912
+FieldValue: HostClubCounselorBusinessPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorMobilePhone
+FieldFlags: 12582912
+FieldValue: HostClubCounselorMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostClubCounselorFax
+FieldFlags: 12582912
+FieldValue: HostClubCounselorFax
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolName
+FieldFlags: 12582912
+FieldValue: HostSchoolName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolPhone
+FieldFlags: 12582912
+FieldValue: HostSchoolPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolFax
+FieldFlags: 12582912
+FieldValue: HostSchoolFax
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolStartDate
+FieldFlags: 12582912
+FieldValue: HostSchoolStartDate
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolStreet
+FieldFlags: 12582912
+FieldValue: HostSchoolStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolCity
+FieldFlags: 12582912
+FieldValue: HostSchoolCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolStateProv
+FieldFlags: 12582912
+FieldValue: HostSchoolStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolPostalCode
+FieldFlags: 12582912
+FieldValue: HostSchoolPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolCountry
+FieldFlags: 12582912
+FieldValue: HostSchoolCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolOfficialName
+FieldFlags: 12582912
+FieldValue: HostSchoolOfficialName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostSchoolOfficialEmail
+FieldFlags: 12582912
+FieldValue: HostSchoolOfficialEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFatherName
+FieldFlags: 12582912
+FieldValue: HostFatherName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFatherEmail
+FieldFlags: 12582912
+FieldValue: HostFatherEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFatherBusinessPhone
+FieldFlags: 12582912
+FieldValue: HostFatherBusinessPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFatherMobilePhone
+FieldFlags: 12582912
+FieldValue: HostFatherMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostMotherName
+FieldFlags: 12582912
+FieldValue: HostMotherName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostMotherEmail
+FieldFlags: 12582912
+FieldValue: HostMotherEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostMotherBusinessPhone
+FieldFlags: 12582912
+FieldValue: HostMotherBusinessPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostMotherMobilePhone
+FieldFlags: 12582912
+FieldValue: HostMotherMobilePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyStreet
+FieldFlags: 12582912
+FieldValue: HostFamilyStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyCity
+FieldFlags: 12582912
+FieldValue: HostFamilyCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyStateProv
+FieldFlags: 12582912
+FieldValue: HostFamilyStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyPostalCode
+FieldFlags: 12582912
+FieldValue: HostFamilyPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyCountry
+FieldFlags: 12582912
+FieldValue: HostFamilyCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyHomePhone
+FieldFlags: 12582912
+FieldValue: HostFamilyHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: HostFamilyOtherAdults
+FieldFlags: 12582912
+FieldValue: HostFamilyOtherAdults
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: MotherName
+FieldFlags: 12582912
+FieldValue: MotherName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: FatherName
+FieldFlags: 12582912
+FieldValue: FatherName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactName
+FieldFlags: 12582912
+FieldValue: AltContactName
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactRelationship
+FieldFlags: 12582912
+FieldValue: AltContactRelationship
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactStreet
+FieldFlags: 12582912
+FieldValue: AltContactStreet
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactCity
+FieldFlags: 12582912
+FieldValue: AltContactCity
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactStateProv
+FieldFlags: 12582912
+FieldValue: AltContactStateProv
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactPostalCode
+FieldFlags: 12582912
+FieldValue: AltContactPostalCode
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactCountry
+FieldFlags: 12582912
+FieldValue: AltContactCountry
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactEmail
+FieldFlags: 12582912
+FieldValue: AltContactEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactHomePhone
+FieldFlags: 12582912
+FieldValue: AltContactHomePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactBusinessPhone
+FieldFlags: 12582912
+FieldValue: AltContactBusinessPhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: AltContactMobilePhone
+FieldFlags: 12582912
+FieldValue: AltContactMobilePhone
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Button4
+FieldFlags: 65537
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: StudentCurrentGradeLevel
+FieldFlags: 12582912
+FieldValue: StudentCurrentGradeLevel
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: Check Box7.0
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.1
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.2
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.3
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.4
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.5
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.6
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.7
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.8
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.9
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: Button
+FieldName: Check Box7.10
+FieldFlags: 0
+FieldJustification: Left
+FieldStateOption: Average
+FieldStateOption: BelowAverage
+FieldStateOption: Excellent
+FieldStateOption: Good
+FieldStateOption: NoBasis
+FieldStateOption: Off
+---
+FieldType: 
+FieldName: Check Box7
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: RefQ2
+FieldFlags: 0
+FieldValue: RefQ2
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: RefQ3
+FieldFlags: 0
+FieldValue: RefQ3
+FieldJustification: Left
+FieldStateOption: No
+FieldStateOption: Not Sure
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: OverallRec
+FieldFlags: 0
+FieldValue: OverallRec
+FieldJustification: Left
+FieldStateOption: NoOpinion
+FieldStateOption: NotRec
+FieldStateOption: Off
+FieldStateOption: Recommend
+FieldStateOption: StrongNo
+FieldStateOption: StrongRec
+---
+FieldType: Text
+FieldName: ReferenceNameAndTitle
+FieldFlags: 12582912
+FieldValue: ReferenceNameAndTitle
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ReferenceNameOfSchool
+FieldFlags: 12582912
+FieldValue: ReferenceNameOfSchool
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ReferencePhone
+FieldFlags: 12582912
+FieldValue: ReferencePhone
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: ReferenceEmail
+FieldFlags: 12582912
+FieldValue: ReferenceEmail
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: SendAppTo
+FieldFlags: 8392704
+FieldValue: SendAppTo
+FieldJustification: Center
+---
+FieldType: Button
+FieldName: TaskComplete.0.0
+FieldFlags: 0
+FieldValue: TaskComplete.0.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.1.0
+FieldFlags: 0
+FieldValue: TaskComplete.1.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.2.0
+FieldFlags: 0
+FieldValue: TaskComplete.2.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.3.0
+FieldFlags: 0
+FieldValue: TaskComplete.3.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.4.0
+FieldFlags: 0
+FieldValue: TaskComplete.4.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.5.0
+FieldFlags: 0
+FieldValue: TaskComplete.5.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.8.0
+FieldFlags: 0
+FieldValue: TaskComplete.8.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.9.0
+FieldFlags: 0
+FieldValue: TaskComplete.9.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.12.0
+FieldFlags: 0
+FieldValue: TaskComplete.12.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.11.0
+FieldFlags: 0
+FieldValue: TaskComplete.11.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.10.0
+FieldFlags: 0
+FieldValue: TaskComplete.10.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.7.0
+FieldFlags: 0
+FieldValue: TaskComplete.7.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: Button
+FieldName: TaskComplete.6.0
+FieldFlags: 0
+FieldValue: TaskComplete.6.0
+FieldJustification: Left
+FieldStateOption: Off
+FieldStateOption: Yes
+---
+FieldType: 
+FieldName: TaskComplete
+FieldFlags: 0
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: SiblingGender4
+FieldFlags: 0
+FieldValue: SiblingGender4
+FieldJustification: Left
+FieldStateOption: Female
+FieldStateOption: Male
+FieldStateOption: Off
+---
+FieldType: Text
+FieldName: ReturnGFto
+FieldFlags: 12587008
+FieldValue: ReturnGFto
+FieldJustification: Left
+---
+FieldType: Button
+FieldName: Instructions
+FieldFlags: 65536
+FieldJustification: Left
+---
+FieldType: Text
+FieldName: NoOfCopies
+FieldFlags: 8388608
+FieldValue: NoOfCopies
+FieldValueDefault: Four (4)
+FieldJustification: Left
